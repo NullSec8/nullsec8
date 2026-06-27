@@ -65,8 +65,11 @@
 </div>
 ---
 <div align='center'>
-<h3>trophies</h3>
-<img src='https://github-profile-trophy.vercel.app/?username=NullSec8&amp;theme=chartreuse-dark&amp;no-frame=true&amp;no-bg=false&amp;margin-w=4&amp;row=2&amp;column=6' />
+<h3>achievements</h3>
+<img src='https://img.shields.io/badge/Pull_Shark_Gold-00FF00?style=for-the-badge&logo=github&logoColor=black' />
+<img src='https://img.shields.io/badge/YOLO-00FF00?style=for-the-badge&logo=github&logoColor=black' />
+<img src='https://img.shields.io/badge/Quickdraw-00FF00?style=for-the-badge&logo=github&logoColor=black' />
+<img src='https://img.shields.io/badge/365_Streak-FFFF00?style=for-the-badge&logo=github&logoColor=black' />
 </div>
 
 ---
