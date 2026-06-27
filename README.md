@@ -1,13 +1,16 @@
-`	ext
-██████╗ ██████╗  ██████╗ ███████╗██╗██╗     ███████╗
-██╔══██╗██╔══██╗██╔═══██╗██╔════╝██║██║     ██╔════╝
-██████╔╝██████╔╝██║   ██║█████╗  ██║██║     ███████╗
-██╔══██╗██╔══██╗██║   ██║██╔══╝  ██║██║     ╚════██║
-██║  ██║██║  ██║╚██████╔╝██║     ██║███████╗███████║
-╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚══════╝
-`
+# Hello, I'm NullSec8
 
-`
+<pre>
+  ____  _   _ _ _  ____ ____ ___ ____  
+ / ___|| | | | | |/ ___/ ___|_ _|  _ \ 
+ \___ \| | | | | | |  _\___ \| || | | |
+  ___) | |_| | | | |_| |___) | || |_| |
+ |____/ \___/|_|_|\____|____/___|____/ 
+</pre>
+
+---
+
+<pre>
 $ whoami
 NullSec8
 
@@ -15,32 +18,26 @@ $ cat /etc/passwd | grep -i skill
 fullstack:x:1000:1000:Full Stack Developer:/home/dev:/bin/bash
 automation:x:1001:1001:Automation Engineer:/home/auto:/bin/bash
 opensource:x:1002:1002:Open Source Contributor:/home/oss:/bin/bash
-
-$ uname -a
-Linux knowledge 6.0.0-arch1-1 #1 SMP PREEMPT_DYNAMIC x86_64 GNU/Linux
-
-$ uptime
- 13:37:00 up 365 days, load average: 0.00 0.01 0.05
-`
+</pre>
 
 ---
 
-### stats
+<h3 align='center'>stats</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NullSec8&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0D1117" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NullSec8&theme=chartreuse-dark&hide_border=true&background=0D1117" height="160" />
+<p align='center'>
+  <img src='https://github-readme-stats.vercel.app/api?username=NullSec8&amp;show_icons=true&amp;theme=chartreuse-dark&amp;hide_border=true&amp;count_private=true&amp;bg_color=0D1117' height='160' />
+  <img src='https://github-readme-streak-stats.herokuapp.com/?user=NullSec8&amp;theme=chartreuse-dark&amp;hide_border=true&amp;background=0D1117' height='160' />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullSec8&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
+<p align='center'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=NullSec8&amp;layout=compact&amp;theme=chartreuse-dark&amp;hide_border=true&amp;bg_color=0D1117' />
 </p>
 
 ---
 
-### arsenal
+<h3 align='center'>arsenal</h3>
 
-`yaml
+<pre>
 languages:
   - python
   - javascript
@@ -59,41 +56,41 @@ tools:
   - linux
   - git
   - gh cli
-`
+</pre>
 
 ---
 
-### activity
+<h3 align='center'>activity</h3>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NullSec8&theme=github-compact&hide_border=true&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&area_color=00FF00" width="95%" />
+<p align='center'>
+  <img src='https://github-readme-activity-graph.vercel.app/graph?username=NullSec8&amp;theme=github-compact&amp;hide_border=true&amp;bg_color=0D1117&amp;color=00FF00&amp;line=00FF00&amp;point=FFFFFF&amp;area=true&amp;area_color=00FF00' width='95%' />
 </p>
 
 ---
 
-### trophies
+<h3 align='center'>trophies</h3>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NullSec8&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=2&column=6" />
+<p align='center'>
+  <img src='https://github-profile-trophy.vercel.app/?username=NullSec8&amp;theme=matrix&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4&amp;row=2&amp;column=6' />
 </p>
 
 ---
 
-### achievements.log
+<h3 align='center'>achievements.log</h3>
 
-`
+<pre>
 [2026-06-27 19:08] Pull Shark Gold .......... ACQUIRED (128+ PRs)
 [2026-06-27 19:08] YOLO .................... ACQUIRED (merged without review)
 [2026-06-27 19:08] Quickdraw ............... ACQUIRED (merged in seconds)
 [2026-06-27 00:00] 365-Day Streak ......... IN_PROGRESS
-`
+</pre>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NullSec8&label=profile_views&color=00ff00&style=flat" alt="views" />
+<p align='center'>
+  <img src='https://komarev.com/ghpvc/?username=NullSec8&amp;label=profile_views&amp;color=00ff00&amp;style=flat' alt='views' />
 </p>
 
-<p align="center">
+<p align='center'>
   <code>Automate everything, break nothing</code>
 </p>
