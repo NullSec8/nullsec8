@@ -10,7 +10,6 @@
 <img src='https://img.shields.io/badge/Age-17-00FF00?style=for-the-badge' />
 <img src='https://img.shields.io/badge/From-Kosovo-00FF00?style=for-the-badge' />
 <img src='https://img.shields.io/badge/Role-Full_Stack_Dev-00AA00?style=for-the-badge' />
-<img src='https://img.shields.io/badge/Vibe-Hacker-006600?style=for-the-badge' />
 <br /><br />
 <img src='https://img.shields.io/badge/interests-automation-00FF00?style=flat-square&logo=github-actions' />
 <img src='https://img.shields.io/badge/interests-web_dev-00FF00?style=flat-square&logo=javascript' />
@@ -69,18 +68,9 @@
 <h3>trophies</h3>
 <img src='https://github-profile-trophy.vercel.app/?username=NullSec8&amp;theme=chartreuse-dark&amp;no-frame=true&amp;no-bg=false&amp;margin-w=4&amp;row=2&amp;column=6' />
 </div>
+
 ---
-<div align='center'>
-<h3>achievements</h3>
-<img src='https://img.shields.io/badge/Pull_Shark_Gold-00FF00?style=for-the-badge&logo=github&logoColor=black' />
-<img src='https://img.shields.io/badge/YOLO-00FF00?style=for-the-badge&logo=github&logoColor=black' />
-<img src='https://img.shields.io/badge/Quickdraw-00FF00?style=for-the-badge&logo=github&logoColor=black' />
-<img src='https://img.shields.io/badge/365_Streak-FFFF00?style=for-the-badge&logo=github&logoColor=black' />
-</div>
----
+
 <div align='center'>
 <img src='https://komarev.com/ghpvc/?username=NullSec8&amp;label=profile_views&amp;color=00ff00&amp;style=flat' />
-<br /><br />
-<img src='https://img.shields.io/badge/420-00FF00?style=for-the-badge&logo=&logoColor=black' />
-<img src='https://img.shields.io/badge/blaze_it-006600?style=for-the-badge&logo=&logoColor=white' />
 </div>
