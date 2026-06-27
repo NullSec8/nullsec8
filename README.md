@@ -77,14 +77,12 @@
 
 <div align='center'>
 
-<h3>achievements.log</h3>
+<h3>achievements</h3>
 
-<pre><code>
-[2026-06-27 19:08] Pull Shark Gold .......... ACQUIRED (128+ PRs)
-[2026-06-27 19:08] YOLO .................... ACQUIRED (merged without review)
-[2026-06-27 19:08] Quickdraw ............... ACQUIRED (merged in seconds)
-[2026-06-27 00:00] 365-Day Streak ......... IN_PROGRESS
-</code></pre>
+<img src='https://img.shields.io/badge/Pull_Shark_Gold-00FF00?style=for-the-badge&logo=github&logoColor=black' />
+<img src='https://img.shields.io/badge/YOLO-00FF00?style=for-the-badge&logo=github&logoColor=black' />
+<img src='https://img.shields.io/badge/Quickdraw-00FF00?style=for-the-badge&logo=github&logoColor=black' />
+<img src='https://img.shields.io/badge/365_Streak-FFFF00?style=for-the-badge&logo=github&logoColor=black' />
 
 </div>
 
@@ -96,6 +94,7 @@
 
 <br /><br />
 
-<code>420 blaze it</code>
+<img src='https://img.shields.io/badge/420-00FF00?style=for-the-badge&logo=&logoColor=black' />
+<img src='https://img.shields.io/badge/blaze_it-006600?style=for-the-badge&logo=&logoColor=white' />
 
 </div>
