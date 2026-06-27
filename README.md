@@ -1,8 +1,10 @@
 <div align='center'>
+<img src='https://i.pinimg.com/736x/22/e3/bb/22e3bb5452bfd171cc4d28a7bd23034b.jpg' width='100%' style='border-radius:8px;' />
+<br /><br />
 <img src='https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0D1117,50:00FF00,100:0D1117&text=NullSec8&reversal=true&fontColor=00FF00&fontSize=60&animation=twinkling' width='100%' />
-<marquee behavior='scroll' direction='left' scrollamount='10'>
-  <img src='https://cdn-icons-png.flaticon.com/512/3065/3065883.png' width='60' height='60' />
-</marquee>
+</div>
+
+<div align='center'>
 <img src='https://img.shields.io/badge/nullsec8-000000?style=for-the-badge&logo=github&logoColor=00FF00' />
 <img src='https://img.shields.io/badge/Full%20Stack-00FF00?style=for-the-badge&logo=code&logoColor=black' />
 <img src='https://img.shields.io/badge/Automation-00AA00?style=for-the-badge&logo=github-actions&logoColor=black' />
