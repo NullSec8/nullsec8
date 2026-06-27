@@ -67,12 +67,9 @@
 
 <div align='center'>
 
-
-<div align='center'>
-
 <h3>trophies</h3>
 
-<img src='https://github-profile-trophy.vercel.app/?username=NullSec8&amp;theme=matrix&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4&amp;row=2&amp;column=6' />
+<img src='https://github-profile-trophy.vercel.app/?username=NullSec8&amp;theme=chartreuse-dark&amp;no-frame=true&amp;no-bg=false&amp;margin-w=4&amp;row=2&amp;column=6' />
 
 </div>
 
