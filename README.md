@@ -12,6 +12,13 @@
 >> whoami
 NullSec8
 
+>> neofetch
+NullSec8@github
+OS: Arch Linux x86_64
+Shell: bash 5.2.37
+Uptime: 365 days
+Theme: Matrix 0.0.1
+
 >> cat /etc/passwd | grep skill
 fullstack:x:1000:1000:Full Stack Developer:/home/dev:/bin/bash
 automation:x:1001:1001:Automation Engineer:/home/auto:/bin/bash
@@ -98,6 +105,6 @@ opensource:x:1002:1002:Open Source Contributor:/home/oss:/bin/bash
 
 <br /><br />
 
-<code>Automate everything, break nothing</code>
+<code>420 blaze it</code>
 
 </div>
