@@ -1,51 +1,27 @@
 <div align='center'>
-
 <img src='https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0D1117,50:00FF00,100:0D1117&text=NullSec8&reversal=true&fontColor=00FF00&fontSize=60&animation=twinkling' width='100%' />
-
-<marquee scrollamount='8' behavior='scroll' direction='left'>
-<pre style='color:#00FF00;font-size:8px;line-height:1;'>
-        ╔══╗
-    ╔══╣▐▐╠╗
-╔══╣▐▐║▐▐║▐▐╠══╗
-║▐▐║▐▐║▐▐║▐▐║▐▐║
-║▐▐║▐▐╚══╝▐▐║▐▐║
-║▐▐║▐▐  ╔══╗▐▐║▐▐║
-╚══╝╚══╗║▐▐║╚══╝╚══╗
-       ║▐▐║       ║
-       ╚══╝       ╚══╝
-</pre>
+<marquee behavior='scroll' direction='left' scrollamount='10'>
+  <img src='https://cdn-icons-png.flaticon.com/512/3065/3065883.png' width='60' height='60' />
 </marquee>
-
 <img src='https://img.shields.io/badge/nullsec8-000000?style=for-the-badge&logo=github&logoColor=00FF00' />
 <img src='https://img.shields.io/badge/Full%20Stack-00FF00?style=for-the-badge&logo=code&logoColor=black' />
 <img src='https://img.shields.io/badge/Automation-00AA00?style=for-the-badge&logo=github-actions&logoColor=black' />
 <img src='https://img.shields.io/badge/Open%20Source-006600?style=for-the-badge&logo=opensourceinitiative&logoColor=white' />
-
 </div>
-
 ---
-
 <div align='center'>
-
 <h3>stats</h3>
-
 <img src='https://github-readme-stats.vercel.app/api?username=NullSec8&amp;show_icons=true&amp;theme=chartreuse-dark&amp;hide_border=true&amp;count_private=true&amp;bg_color=0D1117' height='170' />
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=NullSec8&amp;theme=chartreuse-dark&amp;hide_border=true&amp;background=0D1117' height='170' />
 <br />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=NullSec8&amp;layout=compact&amp;theme=chartreuse-dark&amp;hide_border=true&amp;bg_color=0D1117' />
-
 </div>
-
 <div align='center'>
 <img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NullSec8&amp;theme=chartreuse_dark' width='95%' />
 </div>
-
 ---
-
 <div align='center'>
-
 <h3>tech stack</h3>
-
 <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white' />
 <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black' />
 <img src='https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white' />
@@ -64,51 +40,29 @@
 <img src='https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white' />
 <img src='https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&amp;logo=redis&amp;logoColor=white' />
 <img src='https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&amp;logo=nginx&amp;logoColor=white' />
-
 </div>
-
 ---
-
 <div align='center'>
-
 <h3>activity graph</h3>
-
 <img src='https://github-readme-activity-graph.vercel.app/graph?username=NullSec8&amp;theme=github-compact&amp;hide_border=true&amp;bg_color=0D1117&amp;color=00FF00&amp;line=00FF00&amp;point=FFFFFF&amp;area=true&amp;area_color=00FF00' width='95%' />
-
 </div>
-
 ---
-
 <div align='center'>
-
 <h3>trophies</h3>
-
 <img src='https://github-profile-trophy.vercel.app/?username=NullSec8&amp;theme=chartreuse-dark&amp;no-frame=true&amp;no-bg=false&amp;margin-w=4&amp;row=2&amp;column=6' />
-
 </div>
-
 ---
-
 <div align='center'>
-
 <h3>achievements</h3>
-
 <img src='https://img.shields.io/badge/Pull_Shark_Gold-00FF00?style=for-the-badge&logo=github&logoColor=black' />
 <img src='https://img.shields.io/badge/YOLO-00FF00?style=for-the-badge&logo=github&logoColor=black' />
 <img src='https://img.shields.io/badge/Quickdraw-00FF00?style=for-the-badge&logo=github&logoColor=black' />
 <img src='https://img.shields.io/badge/365_Streak-FFFF00?style=for-the-badge&logo=github&logoColor=black' />
-
 </div>
-
 ---
-
 <div align='center'>
-
 <img src='https://komarev.com/ghpvc/?username=NullSec8&amp;label=profile_views&amp;color=00ff00&amp;style=flat' />
-
 <br /><br />
-
 <img src='https://img.shields.io/badge/420-00FF00?style=for-the-badge&logo=&logoColor=black' />
 <img src='https://img.shields.io/badge/blaze_it-006600?style=for-the-badge&logo=&logoColor=white' />
-
 </div>
