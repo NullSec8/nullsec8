@@ -1,29 +1,13 @@
 <div align='center'>
 
-<pre>
-  ____  _   _ _ _  ____ ____ ___ ____  
- / ___|| | | | | |/ ___/ ___|_ _|  _ \ 
- \___ \| | | | | | |  _\___ \| || | | |
-  ___) | |_| | | | |_| |___) | || |_| |
- |____/ \___/|_|_|\____|____/___|____/ 
-</pre>
+<img src='https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0D1117,50:00FF00,100:0D1117&text=NullSec8&reversal=true&fontColor=00FF00&fontSize=60&animation=twinkling' width='100%' />
 
-<pre><code>
->> whoami
-NullSec8
+<br /><br />
 
->> neofetch
-NullSec8@github
-OS: Arch Linux x86_64
-Shell: bash 5.2.37
-Uptime: 365 days
-Theme: Matrix 0.0.1
-
->> cat /etc/passwd | grep skill
-fullstack:x:1000:1000:Full Stack Developer:/home/dev:/bin/bash
-automation:x:1001:1001:Automation Engineer:/home/auto:/bin/bash
-opensource:x:1002:1002:Open Source Contributor:/home/oss:/bin/bash
-</code></pre>
+<img src='https://img.shields.io/badge/nullsec8-000000?style=for-the-badge&logo=github&logoColor=00FF00' />
+<img src='https://img.shields.io/badge/Full%20Stack-00FF00?style=for-the-badge&logo=code&logoColor=black' />
+<img src='https://img.shields.io/badge/Automation%20Engineer-00AA00?style=for-the-badge&logo=github-actions&logoColor=black' />
+<img src='https://img.shields.io/badge/Open%20Source-006600?style=for-the-badge&logo=opensourceinitiative&logoColor=white' />
 
 </div>
 
