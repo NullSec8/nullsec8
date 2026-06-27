@@ -4,6 +4,26 @@
 <img src='https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0D1117,50:00FF00,100:0D1117&text=NullSec8&reversal=true&fontColor=00FF00&fontSize=60&animation=twinkling' width='100%' />
 </div>
 
+---
+
+<div align='center'>
+
+<pre><code style='color:#00FF00;font-size:14px;'>
+NullSec8 is a 17-year-old developer from Kosovo
+interested in automation, web development,
+cybersecurity, and open source.
+
+He likes building things that work automatically,
+breaking things to understand them,
+and learning something new every day.
+
+"Automate everything, break nothing"
+</code></pre>
+
+</div>
+
+---
+
 <div align='center'>
 <img src='https://img.shields.io/badge/nullsec8-000000?style=for-the-badge&logo=github&logoColor=00FF00' />
 <img src='https://img.shields.io/badge/Full%20Stack-00FF00?style=for-the-badge&logo=code&logoColor=black' />
@@ -40,8 +60,6 @@
 <img src='https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white' />
 <img src='https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white' />
 <img src='https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white' />
-<img src='https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&amp;logo=redis&amp;logoColor=white' />
-<img src='https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&amp;logo=nginx&amp;logoColor=white' />
 </div>
 ---
 <div align='center'>
