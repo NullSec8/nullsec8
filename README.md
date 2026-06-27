@@ -1,4 +1,4 @@
-# 👋 Hej, un jam NullSec8
+# Hello, I'm NullSec8
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Automation+Lover;Always+Learning" alt="Typing SVG" />
@@ -6,7 +6,7 @@
 
 ---
 
-### 🔥 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NullSec8&show_icons=true&theme=radical&hide_border=true&count_private=true" height="170" />
@@ -19,7 +19,7 @@
 
 ---
 
-### 🚀 Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -34,7 +34,7 @@
 
 ---
 
-### 📈 Activity Graph
+### Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NullSec8&theme=redical&hide_border=true&area=true" width="95%" />
@@ -42,7 +42,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=NullSec8&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=6" />
@@ -50,14 +50,14 @@
 
 ---
 
-### 🎯 Achievements Unlocked
+### Achievements Unlocked
 
 | Badge | Status |
 |-------|--------|
-| 🔱 **Pull Shark Gold** | ✅ (128+ PR merged) |
-| 🚀 **YOLO** | ✅ (Merged without review) |
-| ⚡ **Quickdraw** | ✅ (PR merged in seconds) |
-| 🔥 **365-Day Streak** | ⏳ In progress... |
+| Pull Shark Gold | Done (128+ PRs merged) |
+| YOLO | Done (Merged without review) |
+| Quickdraw | Done (Merged in seconds) |
+| 365-Day Streak | In progress... |
 
 ---
 
@@ -66,5 +66,5 @@
 </p>
 
 <p align="center">
-  <i>✨ Automate everything, break nothing ✨</i>
+  <i>Automate everything, break nothing</i>
 </p>
