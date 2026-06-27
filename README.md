@@ -7,19 +7,17 @@
 ---
 
 <div align='center'>
-
-<pre><code style='color:#00FF00;font-size:14px;'>
-NullSec8 is a 17-year-old developer from Kosovo
-interested in automation, web development,
-cybersecurity, and open source.
-
-He likes building things that work automatically,
-breaking things to understand them,
-and learning something new every day.
-
-"Automate everything, break nothing"
-</code></pre>
-
+<img src='https://img.shields.io/badge/Age-17-00FF00?style=for-the-badge' />
+<img src='https://img.shields.io/badge/From-Kosovo-00FF00?style=for-the-badge' />
+<img src='https://img.shields.io/badge/Role-Full_Stack_Dev-00AA00?style=for-the-badge' />
+<img src='https://img.shields.io/badge/Vibe-Hacker-006600?style=for-the-badge' />
+<br /><br />
+<img src='https://img.shields.io/badge/interests-automation-00FF00?style=flat-square&logo=github-actions' />
+<img src='https://img.shields.io/badge/interests-web_dev-00FF00?style=flat-square&logo=javascript' />
+<img src='https://img.shields.io/badge/interests-security-00FF00?style=flat-square&logo=lock' />
+<img src='https://img.shields.io/badge/interests-open_source-00FF00?style=flat-square&logo=opensourceinitiative' />
+<br /><br />
+<code><i>Automate everything, break nothing</i></code>
 </div>
 
 ---
