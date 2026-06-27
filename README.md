@@ -67,13 +67,6 @@
 
 <div align='center'>
 
-<h3>contribution snake</h3>
-
-<img src='https://raw.githubusercontent.com/NullSec8/NullSec8/output/github-contribution-grid-snake-dark.svg' width='95%' />
-
-</div>
-
----
 
 <div align='center'>
 
