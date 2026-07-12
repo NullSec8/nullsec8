@@ -31,7 +31,7 @@
 <div align='center'>
 <h3>stats</h3>
 <img src='https://github-readme-stats.vercel.app/api?username=NullSec8&amp;show_icons=true&amp;theme=chartreuse-dark&amp;hide_border=true&amp;count_private=true&amp;bg_color=0D1117' height='170' />
-<img src='https://github-readme-streak-stats.herokuapp.com/?user=NullSec8&amp;theme=chartreuse-dark&amp;hide_border=true&amp;background=0D1117' height='170' />
+<img src='https://streak-stats.demolab.com/?user=NullSec8&amp;theme=chartreuse-dark&amp;hide_border=true&amp;background=0D1117' height='170' />
 <br />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=NullSec8&amp;layout=compact&amp;theme=chartreuse-dark&amp;hide_border=true&amp;bg_color=0D1117' />
 </div>
